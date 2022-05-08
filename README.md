@@ -15,7 +15,7 @@ Open a terminal and run the file `retrieveOaiMetadataMets_parsingXML.py` adding 
 
 For example
 	
-	python retrieveOaiMetadataMets_parsingXML.py https://oai.sbb.berlin/ IDs_stabi.txt
+	python retrieveOaiMetadataMets_parsingXML.py https://oai.sbb.berlin/ exampleData/IDs_stabi.txt
 
 Examples of input file are available in the dir `exampleData`.
 	
