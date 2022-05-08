@@ -18,11 +18,11 @@ For example
 	
 	python retrieveOaiMetadataMets_parsingXML.py https://oai.sbb.berlin/ exampleData/IDs_stabi.txt
 
-Examples of input file are available in the dir `exampleData`.
+Examples of input files are available in the dir `exampleData`.
 	
 For help
 
-	python retrieveOaiMetadataMets.py --help
+	python retrieveOaiMetadataMets_parsingXML.py --help
 
 ## Debugging
 The code prints the ID before retrieving the correspondant metadata. If it breaks, check the last ID printed.
